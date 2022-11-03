@@ -1,0 +1,36 @@
+Scenario / TestCase 
+
+factorials
+prime no.(1 to 1000)
+Fibonacci( 1st 10 or 100 or 1000)
+perfect square
+power of given number
+1$ = Rs.79(convert amt doll to rs)
+ArmstrongNo.(direct)
+SunnyNo.
+No. Palindrome
+Sum of Even/odd digit in a number (5678) -14/13
+i/p is 56002 -> o/p is 562
+
+String reverse
+Count Vowel
+Print vowel which is not present in string:(i/p -> hello o/p -> aiu)
+1.(i/p -> hello hi o/p -> hello hi)
+2.(i/p -> hello hi o/p -> olleh ih)
+1.(i/p -> hello hi o/p -> ih olleh)
+wjap for counting vowels, spl char, numbers in given string
+convert string to uppercase & lowercase without using predifined function
+1.(i/p-> hello HI Bye , o/p -> HELLO hi bYE)
+2.(i/p-> hello  , o/p -> h-1 e-1 l-2 o-1)
+3.(i/p-> hello hi bye hi hello , o/p -> hello-2 hi-2 bye-1)
+
+Array
+-BubbleSort
+-StringAnagram
+-RemoveDuplications
+-SumofDuplicateElement[10,20,20,30,50,50]-(20+50)=70
+-Identical Array
+-Sum of diagonal elements in matrix.
+
+
+
